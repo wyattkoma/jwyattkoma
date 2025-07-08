@@ -1,11 +1,11 @@
 ---
 title: "Wyatt Koma"
-#image: 
+image: media/Wyatt-2024-headshot.jpg
 toc: false
 about: 
   template: jolla
-  #image-shape: round
-  #image-width: 17em
+  image-shape: round
+  image-width: 17em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/jwyattkoma/
