@@ -1,3 +1,11 @@
 ---
 title: "Research"
 ---
+
+J. Wyatt Koma is a PhD candidate in Harvard’s Health Policy program, with a concentration in political analysis. Much of his current research agenda focuses on understanding how to improve access to health care and health outcomes for low-income Americans, particularly those with Medicaid coverage.
+
+His first area of work studies Medicaid coverage of gender-affirming care and its impact on mental health outcomes among transgender Medicaid enrollees. Another set of projects seeks to understand how to reduce administrative burden in the Medicare Savings Program for low-income Medicare beneficiaries, both broadly and as they transition to Medicaid to Medicare. Lastly, he leads analyses to understand the role of pharmacy closures on access to mental health care for those with serious mental illness. His work leverages both national Medicaid administrative data, as well as national survey datasets.
+
+Wyatt’s work has been published in various peer-reviewed journals, including JAMA Health Forum, Health Affairs, Medical Care, LGBT Health, and the American Journal of Preventive Medicine.
+
+Before his doctoral training, Wyatt was an analyst at the Kaiser Family Foundation (KFF), where he used large, national survey data to answer questions about access to care, out-of-pocket spending, and health care disparities among people with Medicare. Prior to that, Wyatt worked at NORC at the University of Chicago where he helped develop, field, and analyze a novel survey for Covered California to improve insurance enrollment among California marketplace enrollees. Wyatt earned a bachelor’s degree in neuroscience from the University of Pittsburgh.
