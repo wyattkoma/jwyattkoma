@@ -1,11 +1,18 @@
 ---
-title: "jwyattkoma"
+title: "Wyatt Koma"
+#image: 
+toc: false
+about: 
+  template: jolla
+  #image-shape: round
+  #image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jwyattkoma/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=o2QIux8AAAAJ&view_op=list_works&sortby=pubdate
+    - text: Email
+      href: mailto::jwkoma@fas.harvard.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Work in progress :)
