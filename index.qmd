@@ -13,6 +13,8 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=o2QIux8AAAAJ&view_op=list_works&sortby=pubdate
     - text: Email
       href: mailto::jwkoma@fas.harvard.edu
+    - text: CV
+      href: media/Koma-CV-07-16-2025.pdf
 ---
 
 PhD Candidate in Health Policy at Harvard University
