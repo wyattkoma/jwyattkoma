@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - href: media/Koma-CV-07-16-2025.pdf
+      - href: media/Koma-CV.pdf
         text: CV
 
 format:
