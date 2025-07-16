@@ -1,4 +1,3 @@
 ---
 title: "CV"
-href: media/Koma-CV-07-16-2025.pdf
 ---
