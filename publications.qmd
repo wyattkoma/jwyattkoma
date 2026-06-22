@@ -1,0 +1,36 @@
+---
+title: "Publications"
+toc: false
+---
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+## Peer-Reviewed Publications
+
+**1.** Fung V, Cheng D, Price M, Khong K, Yang Z, Marcondes FO, **Koma JW**, Hsu J, Alegria M, Newhouse JP. (2026) [State Expansions in Medicaid Financial Assistance for Low-Income Medicare Beneficiaries: Changes in Enrollment and Use.](https://doi.org/10.1111/1475-6773.70116) *Health Services Research*. 61(3): e70116. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1475-6773.70116" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**2.** Yang Z, Cheng D, Price M, Khong K, Duong T, **Koma JW**, Hsu J, Alegria M, Newhouse JP, Fung V. (2026) [Medicaid Retention After Transition to Medicare Among Adults With Expansion Coverage.](https://doi.org/10.1001/jamanetworkopen.2026.8560) *JAMA Network Open*. 9(4): e268560. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1001/jamanetworkopen.2026.8560" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**3.** **Koma JW**, Khong K, Freitas Dias A, Babbs G, Rosenthal M, Charlton B, Huskamp H, McDowell A, Fung V. (2026) [Unmet mental health need and barriers to care among transgender and cisgender adults.](https://doi.org/10.1016/j.amepre.2025.108246) *American Journal of Preventive Medicine*. 70(5): 108246. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.amepre.2025.108246" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**4.** **Koma JW**, Yang Z, Price M, Cheng D, Marcondes F, Khong K, Hsu J, Alegria M, Newhouse JP, Fung V. (2025) [Qualified Medicare Beneficiary Program: Enrollment Trends and Characteristics of Low-Income Beneficiaries.](https://doi.org/10.1377/hlthaff.2024.01189) *Health Affairs*. 44(7): 878–886. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1377/hlthaff.2024.01189" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**5.** Bleich SN, **Koma JW**, Jernigan VBB. (2023) [The Worsening Problem of Food Insecurity.](https://doi.org/10.1001/jamahealthforum.2023.4974) *JAMA Health Forum*. 4(11): e234974. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1001/jamahealthforum.2023.4974" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**6.** Agénor M, **Koma JW**, Pérez AE, McDowell A, Gonzales G. (2023) Differences in Health Insurance and Usual Source of Care Among Racial/Ethnic and Sexual Orientation Subgroups of U.S. Women and Men. *Population Research and Policy Review*. 42: 33.
+
+**7.** **Koma JW**, Fugelsten Biniek J, Cubanski J, Neuman T. (2023) [Access Problems and Cost Concerns of Younger Medicare Beneficiaries Exceeded those of Older Beneficiaries in 2019.](https://pubmed.ncbi.nlm.nih.gov/37011311/) *Health Affairs*. 42(4): 470–478. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="37011311" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**8.** **Koma JW**, Vercammen KA, Jarlenski MP, Frelier JM, Bleich SN. (2020) [Sugary Drink Consumption among Children by Supplemental Nutrition Assistance Program Status.](https://pubmed.ncbi.nlm.nih.gov/31761517/) *American Journal of Preventive Medicine*. 58(1): 69–78. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="31761517" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**9.** Agénor M, Pérez AE, **Koma JW**, Abrams JA, McGregor AJ, Ojikutu BO. (2019) [Sexual Orientation Identity, Race/Ethnicity, and Lifetime HIV Testing in a National Probability Sample of U.S. Women and Men: An Intersectional Approach.](https://pubmed.ncbi.nlm.nih.gov/31314667/) *LGBT Health*. 6(6): 306–318. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="31314667" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**10.** Vercammen KA, **Koma JW**, Bleich SN. (2019) [Trends in Energy Drink Consumption Among U.S. Adolescents and Adults, 2003–2016.](https://pubmed.ncbi.nlm.nih.gov/31005465/) *American Journal of Preventive Medicine*. 56(6): 827–833. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="31005465" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**11.** Jarlenski M, **Koma JW**, Zank J, Bodnar L, Tarr JA, Chang JC. (2018) [Media Portrayal of Prenatal and Postpartum Marijuana Use in an Era of Scientific Uncertainty.](https://pubmed.ncbi.nlm.nih.gov/29655873/) *Drug and Alcohol Dependence*. 187: 116–122. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="29655873" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**12.** Bleich SN, Vercammen KA, **Koma JW**, Li Z. (2018) [Trends in Beverage Consumption Among Children and Adults, 2003–2014.](https://pubmed.ncbi.nlm.nih.gov/29134763/) *Obesity*. 26(2): 432–441. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="29134763" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**13.** **Koma JW**, Donohue JM, Barry CL, Huskamp HA, Jarlenski M. (2017) [Medicaid Coverage Expansions and Cigarette Smoking Cessation Among Low-income Adults.](https://pubmed.ncbi.nlm.nih.gov/29068908/) *Medical Care*. 55(12): 1023–1029. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="29068908" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>
+
+**14.** Jarlenski M, **Koma JW**, Zank J, Bodnar LM, Bogen DL, Chang JC. (2017) [Trends in Perception of Risk of Regular Marijuana Use among US Pregnant and Nonpregnant Reproductive-aged Women.](https://pubmed.ncbi.nlm.nih.gov/28843740/) *American Journal of Obstetrics and Gynecology*. 217(6): 705–707. <span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-pmid="28843740" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;margin-left:6px"></span>

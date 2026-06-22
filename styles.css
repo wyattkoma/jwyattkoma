@@ -1,1 +1,60 @@
 /* css styles */
+
+/* Homepage profile column */
+.profile-photo {
+  width: 10em;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1.25rem;
+}
+
+.profile-col {
+  padding-right: 2rem;
+  border-right: 1px solid #e8e8e8;
+}
+
+.profile-col h2 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+.profile-col > p:first-of-type {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: -0.5rem;
+}
+
+/* Figures column */
+.figures-col {
+  padding-left: 2rem;
+}
+
+.figures-col img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Mobile layout */
+@media (max-width: 767px) {
+  .profile-col {
+    border-right: none;
+    padding-right: 0;
+    text-align: center;
+    padding-bottom: 1.5rem;
+  }
+
+  .profile-col h2 {
+    font-size: 1.6rem;
+  }
+
+  .profile-col > p:first-of-type {
+    text-align: center;
+  }
+
+  .figures-col {
+    padding-left: 0;
+  }
+}

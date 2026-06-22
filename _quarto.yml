@@ -5,10 +5,14 @@ project:
 website:
   title: "J Wyatt Koma"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
+      - href: research.qmd
+        text: Research Portfolio
+      - href: publications.qmd
+        text: Publications
       - href: media/Koma-CV.pdf
         text: CV
 
@@ -16,7 +20,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
