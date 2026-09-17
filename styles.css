@@ -2,8 +2,28 @@
 
 /* Home page: Quarto "jolla" about layout.
    Target order: photo, name, links, bio, figures. The template places the links
-   after the bio, so the flex children are reordered here, and the bio is
-   left-aligned at a readable measure instead of the template's centered text. */
+   after the bio, so the flex children are reordered here, and everything is
+   left-aligned at a readable measure instead of the template's centered layout. */
+
+/* Hold the whole block to the text measure and center that column on the page,
+   so the photo, name, links and bio all share one flush-left edge. */
+div.quarto-about-jolla {
+  align-items: flex-start;
+  width: 100%;
+  max-width: 44rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.quarto-about-jolla .about-image {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+div.quarto-about-jolla .quarto-title h1.title,
+div.quarto-about-jolla .quarto-title .title.h1 {
+  text-align: left;
+}
 
 div.quarto-about-jolla .about-links {
   order: 1;
@@ -20,6 +40,11 @@ div.quarto-about-jolla main {
   max-width: 44rem;
   margin-top: 1.5rem;
   text-align: left;
+}
+
+/* Opening line of the bio, in Harvard crimson (#A51C30, the university's brand color) */
+div.quarto-about-jolla main .lede {
+  color: #a51c30;
 }
 
 /* Figure grid under the bio: centered on the page but wider than the text column */
