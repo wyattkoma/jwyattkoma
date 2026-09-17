@@ -6,3 +6,8 @@
 .quarto
 
 /.quarto/
+
+**/*.quarto_ipynb
+
+# Files the Claude desktop app saves from chat into this folder
+Claude outputs/

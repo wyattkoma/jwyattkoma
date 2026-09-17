@@ -1,30 +1,33 @@
 ---
-title: ""
+title: "J. Wyatt Koma"
 toc: false
-page-layout: full
+about:
+  template: jolla
+  image: media/Wyatt-2024-headshot.jpg
+  image-shape: round
+  image-width: 10em
+  links:
+    - text: CV
+      href: media/Koma-CV.pdf
+    - text: Job Market Paper
+      href: research.html#job-market-paper
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=o2QIux8AAAAJ&view_op=list_works&sortby=pubdate
+    - text: Email
+      href: mailto:jwkoma@fas.harvard.edu
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jwyattkoma/
 ---
 
-::: {.grid}
+I'm on the academic job market for 2026–27 and will complete my PhD in Health Policy in May 2027.
 
-::: {.g-col-12 .g-col-md-4 .profile-col}
+My dissertation explains how public insurance programs can improve the mental health and quality of life for Americans with low incomes. Leveraging quasi-experimental methods and administrative data, my research makes two key contributions: understanding how to redesign public programs to improve health outcomes and how to expand access to prescription drugs. In my work, I pair methodological rigor with a deep understanding of the U.S. health policy landscape to produce research findings that address important, understudied questions facing policymakers, clinicians, and patients.
 
-![](media/Wyatt-2024-headshot.jpg){.profile-photo}
+I've worked in health policy research since 2015, including nearly six years at the Kaiser Family Foundation (KFF) and NORC at the University of Chicago. In those roles, I used a wide range of data sources to address emerging policy questions, producing analyses that informed policymakers and journalists. I'm currently Project Director on a Commonwealth Fund grant.
 
-## Wyatt Koma
+I'm passionate about teaching essential health policy concepts and preparing the next generation of health policy leaders and researchers. I've taught health policy and research design at Harvard and MIT.
 
-PhD Candidate in Health Policy at Harvard University
-
-[LinkedIn](https://www.linkedin.com/in/jwyattkoma/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=o2QIux8AAAAJ&view_op=list_works&sortby=pubdate) · [Email](mailto:jwkoma@fas.harvard.edu)
-
----
-
-I'm a PhD candidate in Harvard's Health Policy program. My research leverages causal inference methods and large administrative datasets to answer policy-informing questions. I'm currently studying how Medicaid coverage of gender-affirming care affects mental health outcomes for transgender enrollees, how to improve the Medicare Savings Program for low-income beneficiaries moving between Medicaid and Medicare, and how pharmacy closures affect access to mental health care for people with serious mental illness. My work has appeared in *JAMA Health Forum*, *Health Affairs*, *Medical Care*, *LGBT Health*, and the *American Journal of Preventive Medicine*.
-
-:::
-
-::: {.g-col-12 .g-col-md-8 .figures-col}
-
-::: {.grid}
+::: {.grid .home-figures}
 
 ::: {.g-col-12 .g-col-md-6}
 ![](media/fig-qmb-distribution.jpeg){fig-alt="Stacked bar chart showing Medicare Savings Program enrollment distribution among eligible beneficiaries from 2016 to 2022"}
@@ -40,10 +43,6 @@ I'm a PhD candidate in Harvard's Health Policy program. My research leverages ca
 
 ::: {.g-col-12 .g-col-md-6}
 ![](media/fig-its-model.jpg){fig-alt="Interrupted time series model showing Medicare Savings Program enrollment trends around policy changes"}
-:::
-
-:::
-
 :::
 
 :::

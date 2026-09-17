@@ -1,60 +1,37 @@
 /* css styles */
 
-/* Homepage profile column */
-.profile-photo {
-  width: 10em;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 1.25rem;
+/* Home page: Quarto "jolla" about layout.
+   Target order: photo, name, links, bio, figures. The template places the links
+   after the bio, so the flex children are reordered here, and the bio is
+   left-aligned at a readable measure instead of the template's centered text. */
+
+div.quarto-about-jolla .about-links {
+  order: 1;
+  padding-bottom: 0.5em;
 }
 
-.profile-col {
-  padding-right: 2rem;
-  border-right: 1px solid #e8e8e8;
+div.quarto-about-jolla hr.about-sep {
+  display: none;
 }
 
-.profile-col h2 {
-  text-align: center;
-  margin-top: 0;
-  font-size: 1.4rem;
+div.quarto-about-jolla main {
+  order: 3;
+  width: 100%;
+  max-width: 44rem;
+  margin-top: 1.5rem;
+  text-align: left;
 }
 
-.profile-col > p:first-of-type {
-  text-align: center;
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: -0.5rem;
+/* Figure grid under the bio: centered on the page but wider than the text column */
+div.quarto-about-jolla .home-figures {
+  width: min(62rem, calc(100vw - 2rem));
+  margin: 2.5rem 0 1rem 50%;
+  transform: translateX(-50%);
+  align-items: center;   /* charts differ in height; center each within its row */
 }
 
-/* Figures column */
-.figures-col {
-  padding-left: 2rem;
-}
-
-.figures-col img {
+div.quarto-about-jolla .home-figures img {
   width: 100%;
   height: auto;
   display: block;
-}
-
-/* Mobile layout */
-@media (max-width: 767px) {
-  .profile-col {
-    border-right: none;
-    padding-right: 0;
-    text-align: center;
-    padding-bottom: 1.5rem;
-  }
-
-  .profile-col h2 {
-    font-size: 1.6rem;
-  }
-
-  .profile-col > p:first-of-type {
-    text-align: center;
-  }
-
-  .figures-col {
-    padding-left: 0;
-  }
 }

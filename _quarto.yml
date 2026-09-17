@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "J Wyatt Koma"
+  title: "J. Wyatt Koma"
   navbar:
     background: light
     left:
@@ -26,3 +26,4 @@ editor: visual
 
 resources:
   - "media/*"
+  - CNAME
