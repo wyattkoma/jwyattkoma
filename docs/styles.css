@@ -41,3 +41,17 @@ div.quarto-about-jolla .home-figures img {
   height: auto;
   display: block;
 }
+
+/* Content pages: make level-3 subsection headers clearly subordinate to the
+   level-2 section headers, which keep the theme's larger size and underline */
+main.content section.level2 > h2 {
+  margin-top: 2.5rem;
+}
+
+main.content section.level3 > h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #4a4a4a;
+  margin-top: 1.75rem;
+  margin-bottom: 0.6rem;
+}
