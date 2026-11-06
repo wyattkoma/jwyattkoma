@@ -3,9 +3,9 @@ title: "J. Wyatt Koma"
 toc: false
 about:
   template: jolla
-  image: media/Wyatt-2024-headshot.jpg
-  image-shape: round
-  image-width: 10em
+  image: media/Wyatt-2026-photo.jpg
+  image-shape: rounded
+  image-width: 13em
   links:
     - text: CV
       href: media/Koma-CV.pdf
